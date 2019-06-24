@@ -1,0 +1,21 @@
+.header {
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+
+    &__textbox {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    &__logo-box {
+        margin: auto 0;
+        width: 15rem;
+    }
+
+    &__logo {
+        width: 100%;
+    }
+
+}
