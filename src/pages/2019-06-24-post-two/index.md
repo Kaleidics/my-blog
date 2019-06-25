@@ -1,0 +1,25 @@
+---
+path: "/post-two"
+date: "2019-06-24 10:56pm"
+title: "Working on a CRUD app for my meetup group"
+author: "Me"
+---
+
+In case you didn't know, well how would you, I recently became a co-host for my city's freeCodeCamp meetup.
+We usually get a lot of beginners and newbies that come and go. So the main host, my friend Javier, asked me
+to make a small community introduction board. Basically, a sort of RSVP system, where newcomers would post
+who they are and their goals with coding.
+
+<br/>
+
+It's been a good two weeks since I worked on the backend with Node. I've been focusing heavily on SASS, and trying to figure out how to convert a .CSV file to fit in a NoSQL database for another project. So revisting this backend stuff is actually a little bit more a challenge than I'd like to admit.
+
+<br/>
+
+Anyways, I'm on the only one working on this right now. I've got tonight and Thursday to work on it. And a ElectronJS meetup Tuesday and a Women in Data meetup Wednesday :woman: (I'm not sure I'm allowed to go to that one, but I got my ticket already :question:). Finally, I on Friday my weekly freeCodeCamp meetup. Hopefully, I've got something to show and hopefully, no one asks me to debug their css again.
+
+<br/>
+
+Got this one off the todo list as well today.
+
+~~make blog mobile responsive~~

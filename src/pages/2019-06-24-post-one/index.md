@@ -1,6 +1,6 @@
 ---
 path: "/post-one"
-date: "2019-06-24"
+date: "2019-06-24 12:14am"
 title: "I was supposed to work on an app"
 author: "Me"
 ---

@@ -9,6 +9,7 @@ const AboutPage = () => (
     <SEO title="Somnus" />
       <section className="introduction u-center-text u-margin-top-small">
         <h2>Hi, I'm Eddie and I went to bed. It's like 1am and I've got work tomorrow.</h2>
+        <p className="paragraph">I promise I'll have something here eventually.</p>
       </section>
   </Layout>
 )

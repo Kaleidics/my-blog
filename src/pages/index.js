@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Somnus" />
     <main>
-      <section className="introduction u-center-text u-margin-top-small">
+      <section className="introduction u-center-text u-margin-top-medium">
         <blockquote className="blockquote">
           <strong>
             <q>Good artists copy; great artists steal</q> — Steve Jobs
