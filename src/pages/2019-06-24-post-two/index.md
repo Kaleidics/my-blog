@@ -12,7 +12,7 @@ who they are and their goals with coding.
 
 <br/>
 
-It's been a good two weeks since I worked on the backend with Node. I've been focusing heavily on SASS, and trying to figure out how to convert a .CSV file to fit in a NoSQL database for another project. So revisiting this backend stuff is actually a little bit more a challenge than I'd like to admit.
+It's been a good two weeks since I worked on the backend with Node. I've been focusing heavily on SASS, and trying to figure out how to convert a .CSV file to fit in a NoSQL database for another project. So revisiting this backend stuff is actually a little bit more a challenge than I'd like to admit. Specifically, I'm stuck on this `null` duplicate error in the terminal for my register auth route. But I think I've already found the answer on this [stackoverflow post](https://stackoverflow.com/questions/24430220/e11000-duplicate-key-error-index-in-mongodb-mongoose).
 
 <br/>
 
@@ -20,6 +20,6 @@ Anyways, I'm on the only one working on this right now. I've got tonight and Thu
 
 <br/>
 
-Got this one off the todo list as well today.
+Got this one off the todo list as well today. :waning_gibbous_moon:
 
 ~~make blog mobile responsive~~

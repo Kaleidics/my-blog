@@ -16,7 +16,10 @@ body {
     background-color: $color-background-1;
     padding: 2rem;
 }
-
+code {
+    background-color: rgba($color-white, .1);
+    border: 1px solid $color-white;
+}
 section {
     width: 33%;
     margin: 0 auto;
