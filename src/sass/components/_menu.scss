@@ -17,4 +17,10 @@
             }
         }
     }
+
+    @media(max-width:1280px) {
+        &__navigation {
+            width: 90%;
+        }
+    }
 }
