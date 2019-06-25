@@ -12,11 +12,11 @@ who they are and their goals with coding.
 
 <br/>
 
-It's been a good two weeks since I worked on the backend with Node. I've been focusing heavily on SASS, and trying to figure out how to convert a .CSV file to fit in a NoSQL database for another project. So revisting this backend stuff is actually a little bit more a challenge than I'd like to admit.
+It's been a good two weeks since I worked on the backend with Node. I've been focusing heavily on SASS, and trying to figure out how to convert a .CSV file to fit in a NoSQL database for another project. So revisiting this backend stuff is actually a little bit more a challenge than I'd like to admit.
 
 <br/>
 
-Anyways, I'm on the only one working on this right now. I've got tonight and Thursday to work on it. And a ElectronJS meetup Tuesday and a Women in Data meetup Wednesday :woman: (I'm not sure I'm allowed to go to that one, but I got my ticket already :question:). Finally, I on Friday my weekly freeCodeCamp meetup. Hopefully, I've got something to show and hopefully, no one asks me to debug their css again.
+Anyways, I'm on the only one working on this right now. I've got tonight and Thursday to work on it. And I've got an ElectronJS meetup Tuesday and a Women in Data meetup Wednesday with some :cool: speakers :woman: (I'm not sure I'm allowed to go to that one, but I got my ticket already :question:). Finally, on Friday I've got my weekly freeCodeCamp meetup. Hopefully, I've got something to show and hopefully, no one asks me to debug their css again.
 
 <br/>
 
