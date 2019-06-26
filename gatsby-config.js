@@ -28,21 +28,28 @@ module.exports = {
         icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
-    "gatsby-plugin-catch-links",
+    `gatsby-plugin-catch-links`,
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/src/pages`,
-        name: "pages",
+        name: `pages`,
       },
     },
-    "gatsby-transformer-remark",
+    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
           `gatsby-remark-emoji`, // <-- this line adds emoji
         ],
+      },
+    },
+    `gatsby-plugin-html-attributes`,
+    {
+      resolve: `gatsby-plugin-html-attributes`,
+      options: {
+        lang: `en`,
       },
     },
   ],

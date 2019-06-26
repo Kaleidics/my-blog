@@ -9,19 +9,19 @@ const Menu = () => (
     <ul className="menu__navigation">
       <li>
         <Link to="/">
-          <img src={home} className="u-image-size-small" />
+          <img src={home} className="u-image-size-small" alt="earth home"/>
           Home
         </Link>
       </li>
       <li>
         <Link to="/blog">
-          <img src={blog} className="u-image-size-small" />
+          <img src={blog} className="u-image-size-small" alt="mars blog" />
           Blog
         </Link>
       </li>
       <li>
         <Link to="/about">
-          <img src={about} className="u-image-size-small" />
+          <img src={about} className="u-image-size-small" alt="about jupiter" />
           About
         </Link>
       </li>
