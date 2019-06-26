@@ -10,15 +10,16 @@ const BlogPage = ({ data }) => (
         Latest posts
       </h2>
       {data.allMarkdownRemark.edges.map(post => (
-        <div key={post.node.id} className="u-margin-bottom-medium">
-          <h3 className="heading-tertiary">{post.node.frontmatter.title}</h3>
-          <p className="paragraph">
-            Posted by {post.node.frontmatter.author} on{" "}
-            {post.node.frontmatter.date}
-          </p>
-          <Link to={post.node.frontmatter.path}>Read more</Link>
-          <hr />
-        </div>
+        <Link to={post.node.frontmatter.path}>
+          <div key={post.node.id} className="u-margin-bottom-medium">
+            <h3 className="heading-tertiary">{post.node.frontmatter.title}</h3>
+            <p className="paragraph">
+              Posted by {post.node.frontmatter.author} on{" "}
+              {post.node.frontmatter.date}
+            </p>
+            Read more
+          </div>
+        </Link>
       ))}
     </section>
   </Layout>
@@ -27,7 +28,7 @@ const BlogPage = ({ data }) => (
 export const pageQuery = graphql`
          query BlogIndexQuery {
            allMarkdownRemark(
-             sort: { fields: [frontmatter___date], order: ASC }
+             sort: { fields: [frontmatter___date], order: DESC }
            ) {
              edges {
                node {

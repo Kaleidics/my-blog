@@ -10,7 +10,7 @@
 
         li {
             width: 15%;
-
+            list-style-type: none;
             a {
                 color: $color-white;
                 @include align-text-image;

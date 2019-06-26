@@ -9,7 +9,7 @@ export default function Template({ data }) {
     <Layout>
       <section className="introduction u-margin-top-medium">
         <h2 className="heading-secondary">{post.frontmatter.title}</h2>
-        <h3 className="heading-tertiary u-margin-bottom-small">
+        <h3 className="heading-tertiary u-margin-bottom-big">
           posted by {post.frontmatter.author} on {post.frontmatter.date}
         </h3>
         <div className="paragraph" dangerouslySetInnerHTML={{ __html: post.html }}></div>
