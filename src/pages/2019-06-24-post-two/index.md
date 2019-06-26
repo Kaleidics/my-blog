@@ -1,6 +1,6 @@
 ---
 path: "/post-two"
-date: "2019-06-24 10:56pm"
+date: "2019-06-24"
 title: "Working on a CRUD app for my meetup group"
 author: "Me"
 ---

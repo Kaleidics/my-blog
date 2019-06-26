@@ -1,6 +1,6 @@
 ---
 path: "/post-three"
-date: "2019-06-25 11:44am"
+date: "2019-06-25"
 title: "SacJS Meetup: Lessons in Electron Development...why not to use it? "
 author: "Me"
 ---
