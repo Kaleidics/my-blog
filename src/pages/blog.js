@@ -10,16 +10,14 @@ const BlogPage = ({ data }) => (
         Latest posts
       </h2>
       {data.allMarkdownRemark.edges.map(post => (
-        <Link to={post.node.frontmatter.path}>
           <div key={post.node.id} className="u-margin-bottom-medium">
-            <h3 className="heading-tertiary">{post.node.frontmatter.title}</h3>
+            <h3 className="heading-tertiary"><Link to={post.node.frontmatter.path}>{post.node.frontmatter.title}</Link></h3>
             <p className="paragraph">
               Posted by {post.node.frontmatter.author} on{" "}
               {post.node.frontmatter.date}
             </p>
-            Read more
+            <Link to={post.node.frontmatter.path}>Read more</Link>
           </div>
-        </Link>
       ))}
     </section>
   </Layout>

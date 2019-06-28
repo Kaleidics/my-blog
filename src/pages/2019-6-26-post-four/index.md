@@ -20,7 +20,7 @@ I guess I just haven't been going to the right places at the right time. So, I'm
 
 <br/>
 
-Also got reacquainted with an old, well... reacquaintance. His name is Walter, super smart and works for the state of California and part of Code for Sacramento/America. Planning to contribute or rebuild some of their projects. Have you seen their [WICit](https://findwic.com/#/map) app? What's going on there??? :confused:
+Also got reacquainted with an old, well... acquaintance. His name is Walter, super smart and works for the state of California and part of Code for Sacramento/America. Planning to contribute or rebuild some of their projects. Have you seen their [WICit](https://findwic.com/#/map) app? What's going on there??? :confused:
 
 <br/>
 
