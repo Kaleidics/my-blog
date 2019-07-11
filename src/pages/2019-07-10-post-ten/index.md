@@ -5,7 +5,7 @@ title: "Code for Sacramento: July 10th"
 author: "Me"
 ---
 
-Today, I went to the Code4Sac meetup to learn more about the hackathon their having on the 20th. Well, I learned it was less of a hackathon more of a "hey we need help building this app" and for free lol.
+Today, I went to the Code4Sac meetup to learn more about the hackathon they are having on the 20th. Well, I learned it was less of a hackathon more of a "hey we need help building this app" and for free lol.
 
 <br/>
 
