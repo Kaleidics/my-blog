@@ -21,7 +21,7 @@ Definitelly a major error on my part to not gather requirements and user stories
 
 <br/>
 
-Well, I scrapped the original project and remade it. It's still using GatsbyJS and a starter template for the scaffolding. So, a lot of the complex stuff is setup for me. The starter is also using the Bulma CSS Framework. I personally try to always write my styles from scratch, but in this case I needed to check in with some progress. There's nothing the CSS framework is doing that I don't already know, it's just quicker. Man, I've got excuses galore in this post. :sweat_smile:
+Well, I scrapped the original project and remade it. It's still using GatsbyJS and a starter template for the scaffolding. So, a lot of the complex stuff is set up for me. The starter is also using the Bulma CSS Framework. I personally try to always write my styles from scratch, but in this case I needed to check in with some progress. There's nothing the CSS framework is doing that I don't already know, it's just quicker. Man, I've got excuses galore in this post. :sweat_smile:
 
 <br/>
 
