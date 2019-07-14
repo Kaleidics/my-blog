@@ -37,7 +37,7 @@ const UserSchema = mongoose.Schema({
 
 So, the idea was the modern form uses emails instead of usernames for signing in. Atleast, that's what I've noticed. So, I decided to change the schema.
 
-But, of course that wasn't the only problem. From the [Passport Github](https://github.com/jaredhanson/passport-local#available-options), it doesn't look like the library supports the naming of a schema propoerty as `email`. They expect the crediential to be named `username`. Which is no problem at all, except it set me back yesterday. 
+But, of course that wasn't the only problem. From the [Passport Github](https://github.com/jaredhanson/passport-local#available-options), it doesn't look like the library supports the naming of a schema property as `email`. They expect the crediential to be named `username`. Which is no problem at all, except it set me back yesterday. 
 
 <br/>
 
