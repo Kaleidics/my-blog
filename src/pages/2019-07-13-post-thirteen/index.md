@@ -28,10 +28,14 @@ Well, I scrapped the original project and remade it. It's still using GatsbyJS a
 Most of the work I did, includes:
 - setting up the routing
 - writing the graphql queries
-- implementing the custom styles and assets (oh yea, I finally got the assets from his designer)
+- implementing the custom styles and assets (oh yea, I finally got the logos from his designer)
 - integrating the podcast player
 - setting up the RSS feed
 
 <br/>
 
-Took me way longer than I was hoping. I was hoping to learn some VueJS today and add that to my skills list. I'm trying to at least have an idea of the ***Big Three*** frameworks: React, Vue, Angular. Well, there's still time in the day.
+Took me way longer than I was hoping. [Here is it](https://netwrkr.netlify.com/) in case you were wondering.
+
+<br/>
+
+I was hoping to learn some VueJS today and add that to my skills list. I'm trying to at least have an idea of the ***Big Three*** frameworks: React, Vue, Angular. Well, there's still time in the day.
